@@ -1,0 +1,6 @@
+{
+  "name": "VELAR | Luxury Menswear",
+  "description": "High-end digital flagship and atelier for VELAR menswear, featuring timeless tailoring, Italian cashmere, and bespoke styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
